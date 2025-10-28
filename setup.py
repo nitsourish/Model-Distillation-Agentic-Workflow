@@ -30,8 +30,8 @@ setup(
     ],
     python_requires=">=3.8",
     install_requires=[
-        "torch>=2.0.0",
-        "transformers>=4.30.0",
+        "torch>=2.6.0",
+        "transformers>=4.48.0",
         "datasets>=2.14.0",
         "langgraph>=0.0.20",
         "langchain>=0.1.0",

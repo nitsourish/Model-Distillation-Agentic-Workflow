@@ -1,6 +1,6 @@
 # Core dependencies for model distillation
-torch>=2.0.0
-transformers>=4.30.0
+torch>=2.6.0
+transformers>=4.48.0
 datasets>=2.14.0
 
 # LangChain and LangGraph for agentic workflow
