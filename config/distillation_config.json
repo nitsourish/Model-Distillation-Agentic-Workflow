@@ -1,0 +1,11 @@
+{
+  "teacher_model_name": "gpt2",
+  "student_model_name": "distilgpt2",
+  "temperature": 2.0,
+  "alpha": 0.5,
+  "max_length": 128,
+  "batch_size": 4,
+  "num_epochs": 3,
+  "learning_rate": 5e-5,
+  "output_dir": "./models/distilled_model"
+}
