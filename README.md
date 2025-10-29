@@ -43,7 +43,6 @@ This project uses `uv` for fast Python package management and virtual environmen
 
 ```
 model_distillation/
-├── main.py                    # Main application entry point
 ├── pyproject.toml            # Project configuration and dependencies
 ├── uv.lock                   # Locked dependency versions
 ├── notebooks/                # Jupyter notebooks for experimentation
