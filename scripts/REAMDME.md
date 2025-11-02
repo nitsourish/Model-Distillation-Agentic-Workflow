@@ -1,9 +1,3 @@
----
-noteId: "ed61c700b7e411f0b7ce3b6ed532d1f7"
-tags: []
-
----
-
 # 🏦 Privacy-Aware Loan Agent - Scripts
 
 This directory contains the modular Streamlit application for the Privacy-Aware Loan Approval Agent.
